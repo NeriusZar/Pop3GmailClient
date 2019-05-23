@@ -1,0 +1,10 @@
+C:\Users\neriu\source\repos\PopClient\PopClient\bin\Debug\PopClient.exe.config
+C:\Users\neriu\source\repos\PopClient\PopClient\bin\Debug\PopClient.exe
+C:\Users\neriu\source\repos\PopClient\PopClient\bin\Debug\PopClient.pdb
+C:\Users\neriu\source\repos\PopClient\PopClient\obj\Debug\PopClient.csprojAssemblyReference.cache
+C:\Users\neriu\source\repos\PopClient\PopClient\obj\Debug\PopClient.EmailRetrievingPage.resources
+C:\Users\neriu\source\repos\PopClient\PopClient\obj\Debug\PopClient.Properties.Resources.resources
+C:\Users\neriu\source\repos\PopClient\PopClient\obj\Debug\PopClient.csproj.GenerateResource.cache
+C:\Users\neriu\source\repos\PopClient\PopClient\obj\Debug\PopClient.csproj.CoreCompileInputs.cache
+C:\Users\neriu\source\repos\PopClient\PopClient\obj\Debug\PopClient.exe
+C:\Users\neriu\source\repos\PopClient\PopClient\obj\Debug\PopClient.pdb
